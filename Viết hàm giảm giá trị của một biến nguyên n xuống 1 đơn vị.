@@ -1,0 +1,9 @@
+#include<stdio.h>
+int n;
+int main (){
+    printf("nhap 1 so nguyen n bat ki: ");
+    scanf("%d",&n);
+    n = n - 1;
+    printf("%d",n);
+    return 0;
+}
