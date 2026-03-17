@@ -1,0 +1,8 @@
+#include<stdio.h>
+float x;
+int main (){
+    printf("nhap 1 so thuc x bat ki: ");
+    scanf("%f",&x);
+    printf("so ban vua nhap la: %f",x);
+    return 0;
+}
