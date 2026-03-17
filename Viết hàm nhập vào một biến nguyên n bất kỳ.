@@ -1,0 +1,8 @@
+#include<stdio.h>
+int n;
+int main (){
+    printf("nhap 1 so nguyen n bat ki: ");
+    scanf("%d",&n);
+    printf("so ban vua nhap la: %d",n);
+    return 0;
+}
